@@ -43,7 +43,7 @@ HTML5
 📬 Contact
 If you'd like to get in touch or collaborate:
 
-GitHub: @birumj
+GitHub: (https://github.com/BiruMJ)
 
 Email: (basforebiru70@gmail.com)
 
