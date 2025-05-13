@@ -5,10 +5,10 @@ This is a simple, responsive personal portfolio built using only HTML only. It s
 🔗 **Live Demo:**  [Click here to view the site](https://birumj.github.io/Basic-HTML-Website/index.html)
 
 🔗 **Repository URL:**
-[Click here to view the project repository URL]().
+[Click here to view the project repository URL](https://github.com/BiruMJ/Basic-HTML-Website).
 
 🔗 **Project URL:**
-[Click here to view the project page URL]().
+[Click here to view the project page URL](https://roadmap.sh/projects/basic-html-website).
 
 ## 📌 Features
 
